@@ -14,4 +14,4 @@ React + Vite app with randomized multiple-choice quiz banks for Modules 1–4.
 
 ## Notes
 - The app uses Tailwind CSS. If you don't want Tailwind, remove imports and classes; the app still runs but styling is simpler.
-- To edit the banks, update `src/App.jsx` `fullBanks` object.
+- To edit the banks, update `src/App.jsx` `fullBanks` object. yea thats it 
